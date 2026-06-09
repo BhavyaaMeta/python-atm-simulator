@@ -46,7 +46,7 @@ python-atm-simulator/
 4. Run:
 
 ```bash
-python atm_simulator.py
+python atm_banking_system.py
 ```
 
 The program automatically creates a `passbook.txt` file during its first execution.
