@@ -51,6 +51,16 @@ python atm_simulator.py
 
 The program automatically creates a `passbook.txt` file during its first execution.
 
+## Sample Menu
+
+```text
+===== ATM MENU =====
+1. Deposit
+2. Withdraw
+3. View Passbook
+4. Exit
+```
+
 ## Sample Operations
 
 * Deposit money into the account
